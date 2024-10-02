@@ -1,0 +1,5 @@
+<configuration>
+    <reportName>Automation Test Report</reportName>
+    <documentTitle>Test Report</documentTitle>
+    <theme>standard</theme>
+</configuration>
